@@ -24,7 +24,7 @@ You can contact me through GitHub by opening an issue or joining the [Discussion
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thug77-code&show_icons=true&theme=radical)
+![thug77-code's Stats](https://github-readme-stats.vercel.app/api?username=thug77-code&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
 ---
 
@@ -34,5 +34,3 @@ You can contact me through GitHub by opening an issue or joining the [Discussion
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/thug77-code/thug77-code/output/snake.svg" alt="Snake animation" />
-
-###
